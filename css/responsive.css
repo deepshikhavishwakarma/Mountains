@@ -1,0 +1,121 @@
+@media screen and (max-width: 1370px){
+    #carouselExampleIndicators {
+        height: 90vh;
+        /* border: 2px solid red; */
+        overflow: hidden;
+        object-fit: cover;
+    }
+}
+
+
+@media screen and (max-width: 928px){
+    #carouselExampleIndicators {
+        height: 40vh;
+        /* border: 2px solid red; */
+        overflow: hidden;
+        object-fit: cover;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 50vw;
+        margin-top: 8vh;
+        margin-left: 15vw;
+        color: #5b5b5b;
+    }
+
+    .nav-btns a {
+        font-size: 2vw;
+    }
+}
+
+@media screen and (max-width: 780px){
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 50vw;
+        margin-top: 8vh;
+        margin-left: 15vw;
+        color: #5b5b5b;
+    }
+
+    .nav-btns a {
+        font-size: 2.5vw;
+    }
+}
+
+@media screen and (max-width: 600px){
+    #carouselExampleIndicators {
+        height: 30vh;
+        /* border: 2px solid red; */
+        overflow: hidden;
+        object-fit: cover;
+    }
+}
+
+@media screen and (max-width: 480px){
+    #carouselExampleIndicators {
+        height: 20vh;
+        /* border: 2px solid red; */
+        overflow: hidden;
+        object-fit: cover;
+    }
+
+    .logo-0{
+        height: 6vh;
+    }
+
+    .logo{
+        height: 6vh;
+    }
+
+    .after-carousel{
+        height: 10vh;
+    }
+
+    .floating-table{
+        margin: 10vh 0;
+    }
+
+    .table-area{
+        align-items: center;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 80vw;
+        color: #5b5b5b;
+    }
+
+    .mountain-btns {
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav-btns{
+        width: 100%;
+    }
+
+    .right-span p{
+        font-size: 2vw;
+    }
+
+    .right-span-c p{
+        font-size: 2vw;
+    }
+
+    .copyright-text p{
+        font-size: 2.5vw;
+    }
+
+    .nav-btns a {
+        font-size: 3.5vw;
+    }
+
+   .top-image {
+    height: 92vh;
+    
+}
+}
